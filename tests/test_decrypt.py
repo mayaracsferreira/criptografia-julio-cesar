@@ -1,0 +1,1 @@
+#simplicity is prerequisite for reliability. edsger w. dijkstra
